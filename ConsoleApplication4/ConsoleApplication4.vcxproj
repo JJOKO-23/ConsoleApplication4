@@ -127,7 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="asdasdasd.cpp" />
     <ClCompile Include="ConsoleApplication4.cpp" />
+    <ClCompile Include="FileName.cpp" />
+    <ClCompile Include="sdasd.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
